@@ -4,83 +4,83 @@
     "price": 128,
     "name": "Maybe Someday",
     "author": "Colleen Hoover",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/01.jpg"
   },
   {
     "id": "2",
     "price": 112,
     "name": "The Miracle Morning",
     "author": "Hal Elrod",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/02.jpg"
   },
   {
     "id": "3",
     "price": 115,
     "name": "Maybe Now",
     "author": "Colleen Hoover",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/03.jpg"
   },
   {
     "id": "4",
     "price": 155,
     "name": "Atomic Habits",
     "author": "James Clear",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/04.jpg"
   },
   {
     "id": "5",
     "price": 180,
     "name": "Shoe Dog",
     "author": "Phil Knight",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/05.jpg"
   },
   {
     "id": "6",
     "price": 138,
     "name": "The 7 Habits of Highly Effective People",
     "author": "Stephen R. Covey",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/06.jpg"
   },
   {
     "id": "7",
     "price": 108,
     "name": "The Power of Habit",
     "author": "Charles Duhigg",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/07.jpg"
   },
   {
     "id": "8",
     "price": 119,
     "name": "The 4-Hour Workweek",
     "author": "Timothy Ferriss",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/08.jpg"
   },
   {
     "id": "9",
     "price": 145,
     "name": "The Last Agent",
     "author": "Robert Dugoni",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/09.jpg"
   },
   {
     "id": "10",
     "price": 156,
     "name": "Thinking, Fast and Slow",
     "author": "Daniel Kahneman",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/10.jpg"
   },
   {
     "id": "11",
     "price": 145,
     "name": "Ugly Love",
     "author": "Colleen Hoover",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/11.jpg"
   },
   {
     "id": "12",
     "price": 117,
     "name": "Someone Else's Secret",
     "author": "Julia Spiro",
-    "img": "http://placehold.it/32x32"
+    "img": "https://raw.githubusercontent.com/rahmanshaon/lucky-one-data/main/img/12.jpg"
   }
 ]
